@@ -1,2 +1,2 @@
 # Autonomous-Car
-This repository contains the arduino program designed to make sure the hardware model of the car can detect obstacle and find a path around the obstacles. 
+This repository contains the arduino program designed to make sure the hardware model of the car can detect obstacle and find a path around the obstacles. This hardware model which we designed can also be controlled using the controller uno app to manually control the car with the help of a mobile phone. This is basically done so that the car can work both autonomously and manually controlled which can be switched based on user preferences.
